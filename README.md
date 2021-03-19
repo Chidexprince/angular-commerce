@@ -1,4 +1,4 @@
-# AngularCommerce
+# Angular Commerce is an Ecommerce Web App built with Angular and Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
